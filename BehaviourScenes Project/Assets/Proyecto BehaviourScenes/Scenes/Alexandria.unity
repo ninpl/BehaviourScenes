@@ -901,6 +901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 606199cc609d1ce4db6f7962eebe223b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  escenaInicial: Init
 --- !u!225 &1345468221
 CanvasGroup:
   m_ObjectHideFlags: 0
