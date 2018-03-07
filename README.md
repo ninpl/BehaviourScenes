@@ -13,3 +13,4 @@ Bevaviour con la funcionalidad de transiciones en una misma escena, dando la imp
 * Plug and play
 * Editable
 * Efecto con Animator
+* API
