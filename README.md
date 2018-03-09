@@ -1,7 +1,7 @@
 # BehaviourScenes
 ---
 
-Bevaviour con la funcionalidad de transiciones en una misma escena, dando la impresion de cambio de escena.
+Sistema de transiciones en una misma escena, dando la impresion de cambio de escena.
 
 
 <p align="center">
