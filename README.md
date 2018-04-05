@@ -21,3 +21,12 @@ Sistema de transiciones en una misma escena, dando la impresion de cambio de esc
 * Editable
 * Efecto con Animator
 * API
+
+---
+## ¿Como usar?
+
+* Descargar [Unity3D Engine][1]
+* Abrir el proyecto en la escena Alexandria
+* Ejecutar la escena
+
+[1]: https://unity3d.com
